@@ -1,0 +1,15 @@
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\bin\Debug\net10.0\PracticaFiguras.exe
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\bin\Debug\net10.0\PracticaFiguras.deps.json
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\bin\Debug\net10.0\PracticaFiguras.runtimeconfig.json
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\bin\Debug\net10.0\PracticaFiguras.dll
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\bin\Debug\net10.0\PracticaFiguras.pdb
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\obj\Debug\net10.0\PracticaFiguras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\obj\Debug\net10.0\PracticaFiguras.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\obj\Debug\net10.0\PracticaFiguras.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\obj\Debug\net10.0\PracticaFiguras.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\obj\Debug\net10.0\PracticaFiguras.sourcelink.json
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\obj\Debug\net10.0\PracticaFiguras.dll
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\obj\Debug\net10.0\refint\PracticaFiguras.dll
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\obj\Debug\net10.0\PracticaFiguras.pdb
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\obj\Debug\net10.0\PracticaFiguras.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\PracticaFiguras\obj\Debug\net10.0\ref\PracticaFiguras.dll
