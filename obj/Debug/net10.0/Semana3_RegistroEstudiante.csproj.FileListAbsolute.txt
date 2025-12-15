@@ -1,0 +1,14 @@
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\bin\Debug\net10.0\Semana3_RegistroEstudiante.exe
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\bin\Debug\net10.0\Semana3_RegistroEstudiante.deps.json
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\bin\Debug\net10.0\Semana3_RegistroEstudiante.runtimeconfig.json
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\bin\Debug\net10.0\Semana3_RegistroEstudiante.dll
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\bin\Debug\net10.0\Semana3_RegistroEstudiante.pdb
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\obj\Debug\net10.0\Semana3_RegistroEstudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\obj\Debug\net10.0\Semana3_RegistroEstudiante.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\obj\Debug\net10.0\Semana3_RegistroEstudiante.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\obj\Debug\net10.0\Semana3_RegistroEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\obj\Debug\net10.0\Semana3_RegistroEstudiante.dll
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\obj\Debug\net10.0\refint\Semana3_RegistroEstudiante.dll
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\obj\Debug\net10.0\Semana3_RegistroEstudiante.pdb
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\obj\Debug\net10.0\Semana3_RegistroEstudiante.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Documentos\Programación OO\Estructura-de-Datos-Programaci-n-\Semana3_RegistroEstudiante\obj\Debug\net10.0\ref\Semana3_RegistroEstudiante.dll
